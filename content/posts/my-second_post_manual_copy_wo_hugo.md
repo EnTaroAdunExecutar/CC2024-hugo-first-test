@@ -7,3 +7,5 @@ draft = false
 ## This is my second post
 
 This is some **bold** text and some *emphasized* text.
+
+some text
