@@ -1,0 +1,7 @@
+baseURL = 'https://karpstein.net/'
+languageCode = 'de-de'
+title = 'Club Cyclist 2024 Eschelbronn'
+theme = 'ananke' 
+[markup.goldmark.renderer]
+unsafe = true
+ 

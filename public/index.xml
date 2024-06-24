@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Club Cyclist 2024 Eschelbronn</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Club Cyclist 2024 Eschelbronn</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 24 Jun 2024 09:18:08 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Third Post</title>
+      <link>http://localhost:1313/posts/my-third_post_manual_copy_wo_hugo/</link>
+      <pubDate>Mon, 24 Jun 2024 09:18:08 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-third_post_manual_copy_wo_hugo/</guid>
+      <description>This is my third post This is some bold text and some emphasized text.&#xA;some random text</description>
+    </item>
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/posts/my-second_post_manual_copy_wo_hugo/</link>
+      <pubDate>Mon, 24 Jun 2024 09:18:07 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-second_post_manual_copy_wo_hugo/</guid>
+      <description>This is my second post This is some bold text and some emphasized text.</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 21 Jun 2024 14:26:07 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>This is my first post This is some bold text and some emphasized text.</description>
+    </item>
+  </channel>
+</rss>
